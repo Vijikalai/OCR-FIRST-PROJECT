@@ -16,6 +16,7 @@ if __name__ == "__main__":
     else:
         file_to_process = sys.argv[1]
         print("*************************************")
+        print("######################################")
         print("Printing file contents of " + file_to_process)
         print("*************************************")
         
